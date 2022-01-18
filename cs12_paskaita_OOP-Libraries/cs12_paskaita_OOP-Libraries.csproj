@@ -6,4 +6,8 @@
     <RootNamespace>cs12_paskaita_OOP_Libraries</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
+
 </Project>
